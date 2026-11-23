@@ -1,0 +1,30 @@
+
+# Godot generated files
+.godot/
+.mono/
+.import/
+
+# C# / .NET generated files
+bin/
+obj/
+.vs/
+*.csproj.user
+*.suo
+
+# Export presets podem conter dados sensíveis
+export_presets.cfg
+
+# Builds e instaladores
+/build/
+/export/
+/Output/
+*.exe
+*.pck
+
+# Logs
+*.log
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+desktop.ini

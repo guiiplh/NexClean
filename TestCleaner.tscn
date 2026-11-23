@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://l5qjpkxhcnep"]
+
+[ext_resource type="Script" uid="uid://xt0bdwm535ut" path="res://windows/TestCleaner.cs" id="1_pe02q"]
+
+[node name="Node" type="Node" unique_id=1408198144]
+script = ExtResource("1_pe02q")
